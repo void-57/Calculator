@@ -1,0 +1,23 @@
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color:blue;
+    border: solid black 2px;
+}
+input[type="button"]{
+    background-color: aqua;
+    color:black;
+    border:solid black 2px;
+    width:100%;
+}
+input[type="text"]{
+    border:solid black 2px;
+    background-color:white;
+    color:black;
+    width:100%;
+}
+body{
+    background-image:url("agg.jpg");
+    position: fixed;
+}
